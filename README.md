@@ -2,6 +2,8 @@
 
 RDS-Pi is a digital signage program designed to be run on Raspberry Pis. This repository focuses specifically on the client code being run on the Pi. At a high level, the application allows high def video, images, and even websites to be displayed in a rotating or scheduled fashion.
 
+Requires an API and scheduling site which will be uploaded in a separate repo at a later date...
+
 ## Pi 3 Setup Steps
 ### Raspi Configuration from Menu dropdown
 - Expand filesystem
